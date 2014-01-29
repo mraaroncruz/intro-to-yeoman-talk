@@ -1,3 +1,3 @@
-##  Bower + Grunt
+## Grunt + Bower 
 
-This is a new Markdown slide
+a match made in heaven
