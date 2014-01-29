@@ -1,0 +1,87 @@
+# Intro
+<slide>
+## Front end development is finally fun!
+by @mraaroncruz
+http://aaroncruz.com
+<slide>
+Tools
+> i love tools
+> i like to build my own to do things like
+  - remind me to turn off my time tracking software
+  - search a bunch of whois at once
+  - ~ 100 bash aliases
+  - ** whenever I have to do the same thing twice**
+
+<slide>
+### Front end dev has been painful
+- wget your dependencies
+or
+<video> getting backbone
+
+<slide>
+## Enter Bower
+manages dependencies for
+- javascript
+- CSS
+- Font Libraries ex. Font Awesome
+<video> bower with bootstrap
+
+<slide>
+Tons of great things came along
+- SASS
+- CoffeeScript
+- Compass
+- Livereload
+- Sprockets/Javascript Concat tools
+
+<slide>
+## Enter Grunt
+Grunt is a task running tool similar to
+- jake (javascript)
+- make (C, others)
+- rake (ruby)
+
+< slide>
+<video> uglify with grunt
+
+< slide>
+## Common tasks with grunt
+- watching for file changes > some action
+- compiling SASS or Coffeescript
+- restarting you application server
+- concatting javascript/CSS files
+- whatever the hell you want (easy to make custom tasks)
+
+<slide>
+## So what is Yeoman?
+
+<slide>
+<grunt image with bower image>
+a match made in heaven
+
+<slide>
+# But wait... There's MORE!
+
+<slide>
+## Yeoman itself is a project generator
+- angular express
+- Flask (python web framework similar to express)
+- laravel PHP framework
+- this slide deck (inception?)
+
+<slide>
+## So many community plugins
+<show community plugins>
+
+<slide>
+## We will build an express app using angular
+
+<video> building express app with angular
+
+<slide>
+## Pure Awesomeness
+http://www.reactiongifs.com/wp-content/uploads/2013/12/aVOSkIC.gif
+Thank you
+@mraaroncruz
+http://aaroncruz.com
+http://github.com/pferdefleisch

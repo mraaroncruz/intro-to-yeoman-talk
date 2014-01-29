@@ -1,0 +1,20 @@
+{
+  "name": "intro-to-yeoman",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-uglify": "~0.3.2"
+  },
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.2",
+    "grunt-contrib-uglify": "~0.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
